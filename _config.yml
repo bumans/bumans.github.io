@@ -28,7 +28,7 @@ author:
   location         : "Chicago, IL"
   employer         : "University of Chicago"
   uri              : # URL
-  email            : "ben.umans@gmail.com" 
+  email            : "ben.umans [at] gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/0000-0002-8209-9731"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=umans+bd"
+  pubmed           : " https://www.ncbi.nlm.nih.gov/myncbi/benjamin.umans.1/bibliography/public/"
   researchgate     : # URL
 
   # Repositories and software development
